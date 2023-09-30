@@ -1,0 +1,11 @@
+/*Oreyomi oluwatoyosi 8864154 */ 
+body {
+    font: normal normal normal 12px/1.5;
+    background-color: hsla(268, 68%, 70%, 68%);
+    width: 100vh;
+    height: 100vh;
+}
+h2 {
+    color: #f02;
+    font-size: 2em;
+}
